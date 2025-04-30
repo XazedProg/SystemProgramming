@@ -4,6 +4,9 @@
 ![alt text](https://imgur.com/Qkfy0vT)
 ![alt text](https://imgur.com/8jQIpbC)
 
+
+![alt text](https://github.com/XazedProg/SystemProgramming/tree/main/screens?raw=true)
+
 ================Старые задания с функциями==========================
 
 *Текст задания отсутствует*
