@@ -1,7 +1,7 @@
 ================Старые задания с числами==========================
 
 *Текст задания отсутствует*
-![alt text](https://imgur.com/Qkfy0vT)
+![screen1](https://imgur.com/Qkfy0vT)
 ![alt text](https://imgur.com/8jQIpbC)
 
 
