@@ -1,40 +1,39 @@
 ================Старые задания с числами==========================
 
 *Текст задания отсутствует*
-![screen1](https://imgur.com/Qkfy0vT)
-![alt text](https://imgur.com/8jQIpbC)
 
-
-![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/80sht.png?raw=true)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/Числа.png?raw=true)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/Числа%20(2).png?raw=true)
 
 ================Старые задания с функциями==========================
 
 *Текст задания отсутствует*
 Вот пример некоторых:
-![alt text](https://imgur.com/GaaS7Ib)
-![alt text](https://imgur.com/X52cl3K)
-![alt text](https://imgur.com/5Es1Wue)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/Функции.png?raw=true)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/Функции2.png?raw=true)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/Функции3.png?raw=true)
 
 ================Старая практическая 3==========================
 
 *Текст задания отсутствует*
 Вот пример некоторых:
-![alt text](https://imgur.com/xxcij45)
-![alt text](https://imgur.com/QBmxt9t)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/практ3.png?raw=true)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/практ3-2.png?raw=true)
 
 ================Старая практическая 4==========================
 
 *Текст задания отсутствует*
 Вот пример некоторых:
-![alt text](https://imgur.com/v0XZ052)
-![alt text](https://imgur.com/NWdxW39)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/практ4.png?raw=true)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/практ4-2.png?raw=true)
 
 ================Старая практическая 5==========================
 
 *Текст задания отсутствует*
 Вот пример некоторых:
-![alt text](https://imgur.com/undefined)
-![alt text](https://imgur.com/PsI59tC)
+
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/практ5.png?raw=true)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/практ5-2.png?raw=true)
 
 ================Задание с шаблонными функциями и классами==========================
 
@@ -65,7 +64,7 @@
 Напишите шаблонную функцию, которая находит пересечение двух массивов.
 Реализуйте шаблонный класс, который оборачивает любой тип и предоставляет методы для получения и установки значения.
 Напишите шаблонную функцию, которая сортирует массив с использованием алгоритма пузырька.
-![alt text](https://imgur.com/UrNy4HD)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/templates.png?raw=true)
 
 ================Задание с exception==========================
 Напишите программу, которая вызывает несколько функций, каждая из которых может выбросить исключение. Обработайте все возможные исключения в main.
@@ -83,8 +82,8 @@
 Напишите функцию, которая конвертирует строку в целое число. Если строка не может быть конвертирована, выбрасывайте исключение. Обработайте это исключение в main.
 Реализуйте класс FileHandler, который открывает файл в конструкторе. Если файл не может быть открыт, выбрасывайте исключение. Обработайте это исключение в main.
 Напишите программу, которая вызывает несколько функций, каждая из которых может выбросить исключение. Используйте разные блоки catch для обработки различных типов исключений и выведите соответствующие сообщения об ошибках
-![alt text](https://imgur.com/undefined)
-![alt text](https://imgur.com/2x3t2h3)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/Exceptions.png?raw=true)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/Exceptions2.png?raw=true)
 
 ================80 тасков==========================
 
@@ -147,8 +146,8 @@
 Создайте класс Logger с виртуальной функцией log(), которая выбрасывает исключение при ошибке записи в лог. Реализуйте классы FileLogger и ConsoleLogger.
 
 Реализуйте класс DataProcessor с виртуальной функцией processData(), которая выбрасывает исключение при некорректных данных. Создайте классы CSVProcessor и JSONProcessor.
-![alt text](https://imgur.com/undefined)
-![alt text](https://imgur.com/aPvnNZb)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/80sht.png?raw=true)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/89sht2.png?raw=true)
 
 ================Системы==========================
 
@@ -211,11 +210,11 @@
 Создайте классы Service, API, Database, MessageQueue, LoadBalancer, Client.
 Реализуйте функционал для взаимодействия между микросервисами, управления базами данных, обработки запросов и балансировки нагрузки.
 Добавьте возможность мониторинга состояния сервисов и обработки ошибок.
-![alt text](https://imgur.com/undefined)
-![alt text](https://imgur.com/AMImC9W)
-![alt text](https://imgur.com/undefined)
-![alt text](https://imgur.com/undefined)
-![alt text](https://imgur.com/undefined)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/УправлениеУчПроцессом.png?raw=true)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/МедЗаписи.png?raw=true)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/ИнтернетМагазин.png?raw=true)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/Библиотека.png?raw=true)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/Agile.png?raw=true)
 
 
 ================Задания с потоками ввода/вывода==========================
