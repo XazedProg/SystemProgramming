@@ -5,7 +5,7 @@
 ![alt text](https://imgur.com/8jQIpbC)
 
 
-![alt text](https://github.com/XazedProg/SystemProgramming/tree/main/screens/Числа.png?raw=true)
+![alt text](https://github.com/XazedProg/SystemProgramming/blob/main/screens/80sht.png?raw=true)
 
 ================Старые задания с функциями==========================
 
